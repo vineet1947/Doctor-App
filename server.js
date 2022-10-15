@@ -22,7 +22,7 @@ if (process.env.NODE_ENV === 'production') {
   });
 }
 
-// app.get('/', (req, res) => res.send('Hello World!'));
+app.get('/test', (req, res) => res.send('Hello World!'));
 app.listen(port, () => console.log(`Node Express Server Started at ${port}!`));
 
 // heroku files
