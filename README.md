@@ -1,3 +1,3 @@
 # Doctor-App
 
-read the doctor cred to use app !! 
+read the doctor app cred txt file to use app !! 
