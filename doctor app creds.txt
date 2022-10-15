@@ -1,6 +1,6 @@
 doctor1@gmail.com ==> a doctor , approved by admin !! (it can see and approve/ reject appointment) 
 
-admin1@gmail.com ==> use this to control entire access !!!(it can do anything BOSS Mode)
+admin@gmail.com ==> use this to control entire access !!!(it can do anything BOSS Mode)
 
 user1@gmail.com==> a simple demo user(can only request an appointment) !!
 
